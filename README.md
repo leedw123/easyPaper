@@ -89,13 +89,13 @@ DB 연동은 **선택 사항**입니다.
 
 ## 다운로드
 
-👉 [Releases 페이지](../../releases)에서 최신 버전을 다운로드하세요.
+👉 [Releases](../../releases)에서 최신 버전을 다운로드하세요.
 
 ---
 
 ## 사용자 매뉴얼
 
-👉 [사용자 매뉴얼 (DOCX)](./docs/easyPaper_사용자_매뉴얼.docx)
+👉 [사용자 매뉴얼](./docs/easyPaper_사용자_매뉴얼.pdf)
 
 ---
 
